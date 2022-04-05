@@ -1,7 +1,8 @@
 2001639
 1170566
 
+## componenti
 >Schede madri:
-schede_madri.md
+componenti/schede_madri.md
 >Processori:
-processori.md
+componenti/processori.md
