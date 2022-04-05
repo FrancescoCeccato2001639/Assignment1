@@ -10,3 +10,5 @@ componenti/processori.md
 Elettronica Padovana
 
 ## periferiche
+>Tastiere:
+periferiche/tastiere.md
